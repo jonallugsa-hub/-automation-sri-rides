@@ -1,1 +1,4 @@
-
+rides/
+*.xlsx
+__pycache__/
+*.pyc
