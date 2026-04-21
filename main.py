@@ -15,7 +15,7 @@ import glob
 # ==========================================================
 
 DOWNLOAD_FOLDER = "rides"
-EXCEL_FILE = "Invoices-facturas.xlsx"
+EXCEL_FILE = "examples_invoices.xlsx"
 OUTPUT_FILE = "facturas_resultado.xlsx"
 
 
