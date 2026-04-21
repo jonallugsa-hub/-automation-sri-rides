@@ -40,10 +40,15 @@ Reduce trabajo manual y mejora la eficiencia en procesos administrativos.
 ## 📂 Project Structure
 
 automation-sri-rides/
+
 │
+
 ├── main.py
+
 ├── example_invoices.xlsx
+
 ├── README.md
+
 ├── .gitignore
 
 
