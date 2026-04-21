@@ -1,5 +1,5 @@
 # automation-sri-rides-Ecuador
-Automation of SRI invoice (RIDE) downloads using Python, Selenium and Excel | Automatización de descarga de comprobantes RIDE del SRI
+Automation of SRI (The Internal Revenue Service (SRI) is Ecuador’s independent technical agency, established in 1997 to administer tax policy and ensure the collection of domestic taxes) invoice (RIDE) downloads using Python, Selenium and Excel | Automatización de descarga de comprobantes RIDE del SRI
 
 # SRI Invoice (RIDE) Download Automation
 # Automatización de descarga de comprobantes SRI (RIDE)
